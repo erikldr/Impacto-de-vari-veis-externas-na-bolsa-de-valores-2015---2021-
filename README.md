@@ -20,7 +20,7 @@ Em 2020 ocorreu a pior queda do periodo analisado, alcançando valores em torno 
 A pandemia do coronavirus trouxe muita incerteza e medo aos investidores, tanto internos quanto externos.
 E as politicas utilizadas pelo governo no controle da pandemia colaboraram ainda mais para esse cenário de crise.
 
-Impeachment Dilma mais de 14% 01/01/2016
-Joesley mais de 12% 16/05/2017
-greve dos caminhoneiros mais de 20% maio/2018
-coronavirus mais de 45% fev/2020
+* Impeachment Dilma mais de 14% 01/01/2016
+* Joesley mais de 12% 16/05/2017
+* Greve dos caminhoneiros mais de 20% maio/2018
+* Coronavirus mais de 45% fev/2020
