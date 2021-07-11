@@ -24,3 +24,6 @@ E as politicas utilizadas pelo governo no controle da pandemia colaboraram ainda
 * Joesley mais de 12% 16/05/2017
 * Greve dos caminhoneiros mais de 20% maio/2018
 * Coronavirus mais de 45% fev/2020
+
+Devido ao github não suportar os plots dinamicos do Plotly estou disponibilizando um dashboard com os plots do notebook.
+https://plotly.com/~erikrocha/15/impacto-de-variaveis-externas-na-bolsa-de-valores-2015-2021/
